@@ -93,4 +93,3 @@ sudo ufw delete deny 23/tcp
 
 Gained hands-on experience configuring a Linux firewall, understanding traffic filtering, and validating the effectiveness of security rules.
 
-```
